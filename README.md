@@ -1,2 +1,4 @@
-# flatidique
-a color scheme if you will
+# flat•idique
+_(noun)_
+
+Just a bunch of files to make my terminal look cool.
